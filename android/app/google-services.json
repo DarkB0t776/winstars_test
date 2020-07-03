@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "700079357357",
+    "firebase_url": "https://winstar-add79.firebaseio.com",
+    "project_id": "winstar-add79",
+    "storage_bucket": "winstar-add79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700079357357:android:014eb98506235b590ab524",
+        "android_client_info": {
+          "package_name": "com.winstarstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700079357357-5m224oojnldqq74t8hvan51c75g3r8jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.winstarstest",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "700079357357-sn9077d8sp9t9n5mfgm0t94t1p4hr542.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3RHEDTdZlM3PBlbk8cztMaAtXERqEyiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700079357357-sn9077d8sp9t9n5mfgm0t94t1p4hr542.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
